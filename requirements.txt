@@ -1,0 +1,5 @@
+diffusers==0.7.0
+transformers==4.22.0
+torch==1.13.0
+huggingface-hub==0.8.1
+python-dotenv==0.19.2  # Asegúrate de agregar dotenv si estás usando variables de entorno
